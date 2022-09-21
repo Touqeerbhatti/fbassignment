@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 12px;
+  }
+
+
+.img-div{
+    height: 106px;
+}
+
+.left-div{
+    height: max-content;
+    padding-top: 250px;
+    
+   
+}
+
+.right-div{
+    height: max-content;
+    padding-top: 200px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.form-div
+{
+ padding: 25px 30px;
+  margin: 15px 0;
+  box-sizing: border-box;
+  border: 2px solid rgb(230, 227, 227);
+  border-radius: 4px;
+  
+}
+
+.user-div{
+    margin: 8px;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+
+.pass-div{
+    margin: 8px;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+
+.a-div{
+    margin: 15px;
+    padding: 8px 8px;
+}
+
+.btn1-div{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    padding: 8px 8px;
+    padding-top: 10px;
+    width: 332px;
+}
+
+.btn2-div{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    overflow: hidden;
+    padding: 8px 8px;
+    padding-top: 10px;
+    text-shadow: none;
+}
+
+
